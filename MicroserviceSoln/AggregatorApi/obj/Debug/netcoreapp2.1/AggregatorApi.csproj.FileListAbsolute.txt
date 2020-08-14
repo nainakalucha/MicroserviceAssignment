@@ -1,0 +1,14 @@
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.csproj.CoreCompileInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.AssemblyInfoInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.AssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\bin\Debug\netcoreapp2.1\AggregatorApi.deps.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\bin\Debug\netcoreapp2.1\AggregatorApi.runtimeconfig.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\bin\Debug\netcoreapp2.1\AggregatorApi.runtimeconfig.dev.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\bin\Debug\netcoreapp2.1\AggregatorApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\bin\Debug\netcoreapp2.1\AggregatorApi.pdb
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.csprojAssemblyReference.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.RazorAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.RazorAssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.RazorTargetAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\AggregatorApi\obj\Debug\netcoreapp2.1\AggregatorApi.pdb

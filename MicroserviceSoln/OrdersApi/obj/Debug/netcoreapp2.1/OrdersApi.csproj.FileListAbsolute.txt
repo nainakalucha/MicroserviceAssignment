@@ -1,0 +1,14 @@
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.csproj.CoreCompileInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.AssemblyInfoInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.AssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.deps.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.runtimeconfig.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.runtimeconfig.dev.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\bin\Debug\netcoreapp2.1\OrdersApi.pdb
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorAssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.RazorTargetAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.pdb
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\OrdersApi\obj\Debug\netcoreapp2.1\OrdersApi.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.csproj.CoreCompileInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfoInputs.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.AssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\bin\Debug\netcoreapp2.1\UserApi.deps.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\bin\Debug\netcoreapp2.1\UserApi.runtimeconfig.dev.json
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\bin\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\bin\Debug\netcoreapp2.1\UserApi.pdb
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorAssemblyInfo.cs
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.RazorTargetAssemblyInfo.cache
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.dll
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.pdb
+C:\Users\sunaina2498\Desktop\SunainaKalucha_2498_MicroService\MicroserviceSoln\UserApi\obj\Debug\netcoreapp2.1\UserApi.csprojAssemblyReference.cache
